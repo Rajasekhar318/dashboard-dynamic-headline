@@ -21,14 +21,14 @@ A modern, responsive, and customizable dashboard interface built using **Next.js
 - **Charts:** Recharts
 - **Forms:** React Hook Form, Zod, @hookform/resolvers
 - **Utilities:** clsx, class-variance-authority, date-fns
-- **Tooling:** TypeScript, PostCSS, pnpm
+- **Tooling:** TypeScript, PostCSS, npm
 
 ## 🛠️ Getting Started
 
 ### Prerequisites
 
 - Node.js ≥ 18
-- pnpm (preferred) or npm/yarn
+- npm (preferred) or npm/yarn
 
 ### Installation
 
@@ -38,13 +38,13 @@ git clone https://github.com/your-username/dashboard-dynamic-headline.git
 cd dashboard-dynamic-headline
 
 # Install dependencies
-pnpm install
+npm install
 ```
 
 ### Development
 
 ```bash
-pnpm dev
+npm dev
 ```
 
 Visit `http://localhost:3000` to view the dashboard locally.
@@ -52,17 +52,17 @@ Visit `http://localhost:3000` to view the dashboard locally.
 ### Build for Production
 
 ```bash
-pnpm build
-pnpm start
+npm build
+npm start
 ```
 
 ## 🧪 Available Scripts
 
 ```bash
-pnpm dev        # Start development server
-pnpm build      # Build for production
-pnpm start      # Start production server
-pnpm lint       # Lint your code
+npm dev        # Start development server
+npm build      # Build for production
+npm start      # Start production server
+npm lint       # Lint your code
 ```
 
 ## 📁 Project Structure
